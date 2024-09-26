@@ -1,0 +1,8 @@
+ProductID,ProductCategory,Price,QuantitySold,Revenue
+101,Electronics,1500,5,7500
+102,Electronics,2000,3,6000
+103,Furniture,500,10,5000
+104,Clothing,50,100,5000
+105,Electronics,10000,1,10000
+106,Clothing,20,200,4000
+107,Furniture,1000,5,5000

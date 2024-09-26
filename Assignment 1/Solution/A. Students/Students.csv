@@ -1,0 +1,6 @@
+StudentID,Name,Gender,Age,MathScore,EnglishScore,TotalScore
+1,Alice,Female,15,85,90,175
+2,Bob,Male,16,,95,95
+3,Charlie,Male,15,80,,80
+4,Diana,Female,16,90,85,175
+5,Eve,Female,15,75,70,145
